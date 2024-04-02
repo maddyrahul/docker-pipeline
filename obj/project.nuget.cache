@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7IL8FeqZFaboZXfmXLWf6Gxycc4hUrw9edSBYFQOEV21fjaUEgxLDf6sI9b9TGAjvIieMUnRg1HYzoKVZ4d6jg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rahulmaddheshiya\\OneDrive - Nagarro\\Desktop\\HelloWorldApp-main\\HelloWorldApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rahulmaddheshiya\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.2\\microsoft.visualstudio.azure.containers.tools.targets.1.17.2.nupkg.sha512"
+  ],
+  "logs": []
+}
